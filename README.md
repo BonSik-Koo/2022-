@@ -27,9 +27,8 @@ MySQL(SQL, 스토어드 프로시저등), PHP, HTML, Apache(WAS), AWS RDS(Cloud)
 > [최종 발표.pptx](https://github.com/BonSik-Koo/2022-Daegu-Metropolitan-Police-Agency-Incident-Status-Service/files/10330874/default.pptx)
 
 
-
 ## 마치며🤣
-> 관계형 데이터베이스인 MySQL을 통한 개념 공부과 sql 작성 방법
-> HTTP stateless 여서 토큰,세션의 필요성
-> 전체적인 Web Service 개발의 흐름도
-> 협업에 대한 경험
+> 1. 관계형 데이터베이스의 개념, DB설계, 다양한 SQL문법을 이용한 쿼리문 작성을 배울수 있었다.
+> 2. 관계형 DB의 이론을 중심으로 학습을 하였기 때문에 자바스크립트, 쿠키등을 사용하지 않았고 또한 서버 스프링과 같은 프레임워크도 사용하지 않았음. 구현 도중 로그인상태유지,동적HTML,보안(인증,권한) 등을 구현하는데에 한계가 있었음. HTTP protocal은 무상태 프로토콜이기 때문에 프로젝트를 구현하면서 토큰, 세션등의 필요성을 느낄수 있었음
+> 3. 전체적인 Web Service 개발의 흐름도 절차등을 약간이나 배울수 있었음.
+> 4. 혼자 진행하는것이 아닌 협업을 통한 프로젝트 개발의 경험을 약간이나 느낄수 있었음
